@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Linux / Herwig 7 / Madgraph**
 
-- 📫 How to reach me **luismiguelvillarpadruno@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **luismiguelvillarpadruno@gmail.com**
 <p align="left">
 </p>
 
