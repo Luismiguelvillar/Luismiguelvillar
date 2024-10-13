@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Miguel Villar Padruno</h1>
 <h3 align="center">Theoretical Physics Student currently living in Manchester</h3>
 
-- 🔭 I’m currently working on **Nuclear reactor simulation**
+- 🔭 I’m currently working on **Sustainability of Herwig7**
 
 - 👨‍💻 All of my projects are available at **GitHub**
 
