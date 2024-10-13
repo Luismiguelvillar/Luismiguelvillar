@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **GitHub**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Linux / Herwig 7 / Madgraph**
 
 - 📫 How to reach me **luismiguelvillarpadruno@gmail.com**
 
