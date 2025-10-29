@@ -1,7 +1,7 @@
 <h1 align="center">Luis Miguel Villar Padruno</h1>
 <h3 align="center">Theoretical Physics Student currently living in Manchester</h3>
 
-- I’m currently working on **The NEXT Experiment**, investigating topology reconstruction of events.
+- I’m currently working on **The NEXT Experiment**, investigating topological reconstruction of events in the detector.
 
 <h3 align="left">Connect with me:</h3>
 - How to reach me: luismiguelvillarpadruno@gmail.com
