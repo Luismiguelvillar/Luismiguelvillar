@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Luis Miguel Villar Padruno</h1>
+<h1 align="center">Luis Miguel Villar Padruno</h1>
 <h3 align="center">Theoretical Physics Student currently living in Manchester</h3>
 
-- 🔭 I’m currently working on **Sustainability of Herwig7**
-
-- 👨‍💻 All of my projects are available at **GitHub**
-
-- 🌱 I’m currently learning **Linux / Herwig 7 / Madgraph**
+- I’m currently working on **The NEXT Experiment**, investigating topology reconstruction of events.
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: luismiguelvillarpadruno@gmail.com
+- How to reach me: luismiguelvillarpadruno@gmail.com
 <p align="left">
 </p>
 
