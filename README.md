@@ -1,5 +1,5 @@
 <h1 align="center">Luis Miguel Villar Padruno</h1>
-<h3 align="center">Theoretical Physics Student currently living in Manchester</h3>
+<h3 align="center">PhD Researcher // University of Manchester</h3>
 
 - I’m currently working on **The NEXT Experiment**, investigating topological reconstruction of events in the detector.
 
